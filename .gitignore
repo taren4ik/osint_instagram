@@ -2,3 +2,5 @@
 env
 venv
 __cache__
+session.json
+openvpn.conf
